@@ -5,5 +5,5 @@ through out our research developing a passive drone detection system.
 
 
 ## Members
-- Kenneth Hyman khyman_gatech.edu
+- Kenneth Hyman _khyman3_gatech.edu_
 
